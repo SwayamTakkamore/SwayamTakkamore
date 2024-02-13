@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### This is Swayam...
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rashmin9c?theme=dark&font=Roboto&border=1&radius=20)
 <!--
 **SwayamTakkamore/SwayamTakkamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
