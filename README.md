@@ -2,6 +2,8 @@
 ### This is Swayam...
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?theme=dark&font=Roboto&border=1&radius=20)
+---
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
 
 <!--
 **SwayamTakkamore/SwayamTakkamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
