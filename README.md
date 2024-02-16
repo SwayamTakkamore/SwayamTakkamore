@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <h3>This is Swayam...</h3>
 
-<img src="VoidRoot.png" width="200px" align="left" style="border-radius:50px">
+<img src="VoidRoot.png" width="200px" align="left" style="border-radius: 50%">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?theme=dark&font=Roboto&border=1&radius=20)
 
