@@ -1,15 +1,19 @@
 # Hi, I'm Swayam 👋
 
-I'm a computer science student fascinated by data science, graphic design, and the possibilities of virtual reality.  
+Computer Science Student | Data Enthusiast |  Exploring VR
 
 * 🔭 Currently exploring Python, data analysis tools, and game development frameworks.
+* 💻 Skilled in Python, C, graphic design, and 3D rendering.
+* 🪴 Learning Python, C, C++, DSA, Javascript, R.
 * 🌱 Learning more about VR for both the entertainment and research applications.
-* ⚡ Winner of 2nd place in DataVerse event at St. Vincent Pallotti College of Engineering & Technology. 
 * 🤔 Open to collaborations, learning opportunities, and building fun projects!
+* 💬  Always down to discuss tech trends, game design, and the future of immersive experiences. 
 
-**Reach me at:**
+**Let's Connect!**
 [takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
+[![DataVerse Winner Badge](https://img.shields.io/badge/DataVerse-2nd%20Place-blue)](https://event_link_if_you_have_one)
+
 
 <img src="VoidRoot.png" width="200px" align="left" style="border-radius: 50%">
 
