@@ -9,7 +9,7 @@ I'm a computer science student fascinated by data science, graphic design, and t
 
 **Reach me at:**
 [takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
-[LinkedIn](www.linkedin.com/in/swayam-voidroot)
+[LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
 
 <img src="VoidRoot.png" width="200px" align="left" style="border-radius: 50%">
 
