@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### This is Swayam...
 
-<img src="VoidRoot.png" width="180px" align="left" style="border-radius:50px">
+<img src="VoidRoot.png" width="200px" align="left" style="border-radius:50px">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?theme=dark&font=Roboto&border=1&radius=20)
 
