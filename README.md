@@ -12,7 +12,7 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 **Let's Connect!**
 [takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
-[![DataVerse Winner Badge](https://img.shields.io/badge/DataVerse-2nd%20Place-blue)](https://event_link_if_you_have_one)
+[![DataVerse Winner Badge](https://img.shields.io/badge/DataVerse-2nd%20Place-blue)]
 
 
 <img src="VoidRoot.png" width="320px" align="left" style="border-radius: 50%">
