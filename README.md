@@ -15,7 +15,7 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 [![DataVerse Winner Badge](https://img.shields.io/badge/DataVerse-2nd%20Place-blue)](https://event_link_if_you_have_one)
 
 
-<img src="VoidRoot.png" width="200px" align="left" style="border-radius: 50%">
+<img src="VoidRoot.png" width="300px" align="left" style="border-radius: 50%">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=light,unicorn&font=Roboto&border=1&radius=20)
 
