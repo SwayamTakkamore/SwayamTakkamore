@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### This is Swayam...
 
+<img src="VoidRoot.png">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?theme=dark&font=Roboto&border=1&radius=20)
 
 ![](https://raw.githubusercontent.com/takkamoreswayam/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
