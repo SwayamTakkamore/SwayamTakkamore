@@ -17,7 +17,7 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 
 <img src="VoidRoot.png" width="200px" align="left" style="border-radius: 50%">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?theme=light,unicorn&font=Roboto&border=1&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=light,unicorn&font=Roboto&border=1&radius=20)
 
 ![](https://raw.githubusercontent.com/takkamoreswayam/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/takkamoreswayam/cf-stats/main/output/light_card.svg)
