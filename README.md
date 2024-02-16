@@ -1,5 +1,15 @@
-<h1>Hi there 👋</h1>
-<h3>This is Swayam...</h3>
+# Hi, I'm Swayam 👋
+
+I'm a computer science student fascinated by data science, graphic design, and the possibilities of virtual reality.  
+
+* 🔭 Currently exploring Python, data analysis tools, and game development frameworks.
+* 🌱 Learning more about VR for both the entertainment and research applications.
+* ⚡ Winner of 2nd place in DataVerse event at St. Vincent Pallotti College of Engineering & Technology. 
+* 🤔 Open to collaborations, learning opportunities, and building fun projects!
+
+**Reach me at:**
+[takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
+[LinkedIn](www.linkedin.com/in/swayam-voidroot) 
 
 <img src="VoidRoot.png" width="200px" align="left" style="border-radius: 50%">
 
