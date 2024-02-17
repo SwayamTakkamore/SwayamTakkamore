@@ -18,4 +18,4 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 ----------------------
 [<img src="mail.png" height="40px" align="center">](mailto:takkamoreswayam@gmail.com)
 [<img src="linkedin.png" height="35px" align="center">](https://www.linkedin.com/in/swayam-voidroot)
-[<img src="instagram.png" height="40px" align="center">>](https://www.instagram.com/swayam_voidroot)
+[<img src="instagram.png" height="40px" align="center">](https://www.instagram.com/swayam_voidroot)
