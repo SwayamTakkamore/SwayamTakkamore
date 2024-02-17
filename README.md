@@ -2,7 +2,7 @@
 
 Computer Science Student | Data Enthusiast |  Exploring VR
 
-```csharp
+```
 * 🔭 Currently exploring Python, data analysis tools, and game development frameworks.
 * 💻 Skilled in Python, C, graphic design, and 3D rendering.
 * 🪴 Learning Python, C, C++, DSA, Javascript, R.
