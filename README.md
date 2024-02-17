@@ -10,7 +10,7 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 💬  Always down to discuss tech trends, game design, and the future of immersive experiences. 
 ```
 
-<img src="VoidRoot.png" width="320px" align="left" style="border-radius: 50%" draggable="false" clickable="false">
+<img src="VoidRoot.png" width="320px" align="left" style="border: 2px;border-radius: 50%;">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=1&radius=20)
 
