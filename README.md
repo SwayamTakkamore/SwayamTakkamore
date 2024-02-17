@@ -16,10 +16,10 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 
 **Let's Connect!**
 [takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
+[LinkedIn]()
 
 [<img src="instagram.png" height="30px">](mailto:takkamoreswayam@gmail.com)
 
-[<img src="instagram.png" height="30px">](mailto:takkamoreswayam@gmail.com)
+[<img src="instagram.png" height="30px">](https://www.linkedin.com/in/swayam-voidroot)
 
 [<img src="instagram.png" height="30px">](https://www.instagram.com/swayam_voidroot)
