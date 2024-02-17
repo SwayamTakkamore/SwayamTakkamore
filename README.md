@@ -16,6 +16,6 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 
 **Let's Connect!**
 ----------------------
-[<link href='https://unpkg.com/css.gg@2.0.0/icons/css/mail.css' rel='stylesheet'>](mailto:takkamoreswayam@gmail.com)
+[<img src="mail.png" height="40px" align="center">](mailto:takkamoreswayam@gmail.com)
 [<img src="linkedin.png" height="35px" align="center">](https://www.linkedin.com/in/swayam-voidroot)
-[<img src="https://unpkg.com/css.gg@2.0.0/icons/css/instagram.css" height="40px" align="center">](https://www.instagram.com/swayam_voidroot)
+[<img src="instagram.png" height="40px" align="center">>](https://www.instagram.com/swayam_voidroot)
