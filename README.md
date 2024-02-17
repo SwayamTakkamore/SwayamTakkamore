@@ -15,6 +15,10 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=1&radius=20)
 
 **Let's Connect!**
+[<img src="instagram.png">](mailto:takkamoreswayam@gmail.com)
+<a href="" rel="Mail"><img src="/path/to/file" alt="" /></a>
+<a href="https://www.linkedin.com/in/swayam-voidroot" rel="LinkedIn"><img src="/path/to/file" alt="" /></a>
+<a href="https://www.instagram.com/swayam_voidroot" rel="Instagram"><img src="/path/to/file" alt="" /></a>
 [takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
 [Instagram](https://www.instagram.com/swayam_voidroot)
