@@ -9,8 +9,8 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 💬  Always down to discuss tech trends, game design, and the future of immersive experiences. 
 ```
 **Let's Connect!**
-[takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
 <img src="VoidRoot.png" width="320px" align="left" style="border-radius: 50%" draggable="false" clickable="false">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=1&radius=20)
+[takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
 
