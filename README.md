@@ -1,5 +1,6 @@
 # Hi, I'm Swayam 👋
 Computer Science Student | Data Enthusiast |  Exploring VR
+
 ```
 🔭 Currently exploring Python, data analysis tools, and game development frameworks.
 💻 Skilled in Python, C, graphic design, and 3D rendering.
@@ -8,9 +9,12 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 🤔 Open to collaborations, learning opportunities, and building fun projects!
 💬  Always down to discuss tech trends, game design, and the future of immersive experiences. 
 ```
-**Let's Connect!**
+
 <img src="VoidRoot.png" width="320px" align="left" style="border-radius: 50%" draggable="false" clickable="false">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=1&radius=20)
+
+```
+**Let's Connect!**
 [takkamoreswayam@gmail.com](mailto:takkamoreswayam@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/swayam-voidroot)
-
+```
