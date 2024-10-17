@@ -3,7 +3,7 @@ Computer Science Student | Data Enthusiast |  Exploring VR
 
 ```first
 🔭 Currently exploring Python, data analysis tools, and android development frameworks.
-💻 Skilled in Python, C, graphic design, and 3D rendering.
+💻 Skilled in Python, C, Flutter, graphic design, and 3D rendering.
 🪴 Upskilling Python, C, C++ & Dart. Learning DSA, Javascript, Typescript, R.
 🌱 Learning more about VR for both, entertainment and research applications.
 🤔 Open to collaborations, learning opportunities, and building fun projects!
