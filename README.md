@@ -13,25 +13,6 @@
 💬 Always down to discuss AI, generative models, and immersive experiences.
 ```
 
----
-
-### 🚀 Achievements
-✅ **1st Prize - Raisoni Tech Hackathon 2025**
-   - Led the **IdeaSpark** platform development to help students bring ideas to life.
-   - Developed **Flutter-based mobile app** & AI-based feasibility checker.
-
-✅ **Top 20 Finalist - Kharagpur Data Science Hackathon 2025**
-   - Worked on **Publishability Assessment & Conference Recommendation AI model**.
-   - Used **real-time data processing with Pathway Framework**.
-
-✅ **2nd Place - NASA Hackathon (Seismic Data Analysis)**
-   - Built ML models for seismic event predictions & disaster management.
-
-✅ **3rd Prize - Engineer’s Day SIH Hackathon**
-   - Created a **unified startup-research-IPR database**.
-
----
-
 ### 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
 
