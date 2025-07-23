@@ -22,5 +22,5 @@
 ### 🌐 Let's Connect!
 [<img src="mail.svg" height="40px" align="center">](mailto:takkamoreswayam@gmail.com)
 [<img src="linkedin.svg" height="40px" align="center">](https://www.linkedin.com/in/swayam-voidroot)
-[<img src="twitter.svg" height="40px" align="center">](https://x.com/SwayamTakkamore)
+[<img src="twitter.svg" height="40px" align="center">](https://x.com/swayam_voidroot)
 [<img src="instagram.svg" height="40px" align="center">](https://www.instagram.com/swayam_voidroot)
