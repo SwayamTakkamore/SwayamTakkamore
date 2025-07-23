@@ -8,6 +8,7 @@
 🪴 Learning DSA, JavaScript, TypeScript, R, and improving my AI/ML expertise.
 🌱 Passionate about VR, deep learning, and real-time AI applications.
 🏆 1st Prize Winner - Raisoni Tech Hackathon 2025 (IdeaSpark Platform)
+🏆 1st Prize Winner - CII IDEA^3 Hackathon 2025 (FoodSense Platform)
 🎖️ Top 20 Finalist - Kharagpur Data Science Hackathon 2025 (IIT Kharagpur & Kshitij)
 🤔 Open to collaborations, research opportunities, and innovative projects!
 💬 Always down to discuss AI, generative models, and immersive experiences.
