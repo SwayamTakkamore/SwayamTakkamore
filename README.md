@@ -3,7 +3,7 @@
 **Computer Science Student | AI & Data Enthusiast | Exploring VR & Generative AI**
 
 ```first
-🔭 Currently working on GAN-based generative AI for 3D model generation.
+🔭 Currently working on Diffusion-based generative AI for 3D model generation.
 💻 Skilled in Python, C, C++, Flutter, MERN Stack, graphic design, and 3D rendering.
 🪴 Learning DSA, JavaScript, TypeScript, R, and improving my AI/ML expertise.
 🌱 Passionate about VR, deep learning, and real-time AI applications.
