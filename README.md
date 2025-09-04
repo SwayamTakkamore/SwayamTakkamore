@@ -10,6 +10,7 @@
 🏆 1st Prize Winner - Raisoni Tech Hackathon 2025 (IdeaSpark Platform)
 🏆 1st Prize Winner - CII IDEA^3 Hackathon 2025 - National Level (FoodSense Platform)
 🎖️ Top 20 Finalist - Kharagpur Data Science Hackathon 2025 (IIT Kharagpur & Kshitij)
+🥉 3rd at Stellar Ragnarok, Nagpur - A Stellar based Blockchain Hacker House
 🤔 Open to collaborations, research opportunities, and innovative projects!
 💬 Always down to discuss AI, generative models, and immersive experiences.
 ```
