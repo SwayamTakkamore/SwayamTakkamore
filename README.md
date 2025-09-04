@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/116f297d-540f-471a-be80-05d843841c62" /># Hi, I'm Swayam 👋
+# Hi, I'm Swayam 👋
 
 **Computer Science Student | AI & Data Enthusiast | Exploring VR & Generative AI**
 
