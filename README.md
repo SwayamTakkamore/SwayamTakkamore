@@ -1,4 +1,4 @@
-# Hi, I'm Swayam 👋
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/116f297d-540f-471a-be80-05d843841c62" /># Hi, I'm Swayam 👋
 
 **Computer Science Student | AI & Data Enthusiast | Exploring VR & Generative AI**
 
@@ -13,10 +13,12 @@
 🤔 Open to collaborations, research opportunities, and innovative projects!
 💬 Always down to discuss AI, generative models, and immersive experiences.
 ```
-
+<!--
 ### 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SwayamTakkamore?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20)
+-->
 
+[![An image of @swayamtakkamore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swayamtakkamore)](https://holopin.io/@swayamtakkamore)
 ---
 
 ### 🌐 Let's Connect!
