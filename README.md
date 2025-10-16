@@ -7,6 +7,7 @@
 💻 Skilled in Python, C, C++, Flutter, MERN Stack, graphic design, and 3D rendering.
 🪴 Learning DSA, JavaScript, TypeScript, R, and improving my AI/ML expertise.
 🌱 Passionate about VR, deep learning, and real-time AI applications.
+🖥️ Hacktoberfest'12 Super Contributor.
 🏆 1st Prize Winner - Raisoni Tech Hackathon 2025 (IdeaSpark Platform)
 🏆 1st Prize Winner - CII IDEA^3 Hackathon 2025 - National Level (FoodSense Platform)
 🎖️ Top 20 Finalist - Kharagpur Data Science Hackathon 2025 (IIT Kharagpur & Kshitij)
